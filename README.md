@@ -1,6 +1,6 @@
 # Carpet Stock Management System
 
-This project is a Python and SQL-based management system developed to optimize inventory tracking, transaction history (incoming/outgoing), and general stock management for a commercial carpet business.
+This project is a Python and SQL-based management system developed to optimize inventory tracking and general stock management for a commercial carpet business.
 
 ---
 
