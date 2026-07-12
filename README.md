@@ -1,11 +1,19 @@
-Carpet Stock Management System
+# Carpet Stock Management System
 
-This project is an SQL-based management software developed to optimize inventory tracking, incoming and outgoing transactions, and inventory management for my uncle’s commercial carpet business.
+This project is a Python and SQL-based management system developed to optimize inventory tracking, transaction history (incoming/outgoing), and general stock management for a commercial carpet business.
 
-##Features
--Dynamic Inventory Addition, Deletion, and Updates
--SQL-Based Secure Data Storage and Fast Querying
--User-Friendly Interface / Console Management
-##Technologies Used
-**Language:** Python
-**Database:-- SQL
+---
+
+## Features
+
+* **Dynamic Inventory Management:** Easily add, update, and delete carpet stocks.
+* **Secure & Fast Data Storage:** Powered by SQL for secure data handling and rapid querying.
+* **User-Friendly Interface:** Clean and intuitive console/terminal management for daily operations.
+* **Transaction Tracking:** Keep a clear log of all incoming and outgoing product movements.
+
+---
+
+## Technologies Used
+
+* **Language:** Python 
+* **Database:** SQL (SQLite) 
