@@ -1,12 +1,11 @@
-Carpet Stock Management System (Halı Stok Yönetim Sistemi)
+Carpet Stock Management System
 
-Bu proje, amcamın ticari bir halı işletmesinin stok takibini, giriş-çıkış işlemlerini ve envanter yönetimini optimize etmek amacıyla geliştirilmiş SQL tabanlı bir yönetim yazılımıdır.
+This project is an SQL-based management software developed to optimize inventory tracking, incoming and outgoing transactions, and inventory management for my uncle’s commercial carpet business.
 
-## Özellikler
-- Dinamik Stok Ekleme, Silme ve Güncelleme
-- SQL Temelli Güvenli Veri Depolama ve Hızlı Sorgulama
-- Kullanıcı Dostu Arayüz / Konsol Yönetimi
-
-## Kullanılan Teknolojiler
-- **Dil:** Python 
-- **Veritabanı:** SQL 
+##Features
+-Dynamic Inventory Addition, Deletion, and Updates
+-SQL-Based Secure Data Storage and Fast Querying
+-User-Friendly Interface / Console Management
+##Technologies Used
+**Language:** Python
+**Database:-- SQL
